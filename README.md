@@ -1,11 +1,11 @@
 ﻿# Kazokku-Technical-Test
-==========================================================================================
+===========================================================================
 
 Halo, ini adalah hasil automation menggunakan Selenium with Ruby + Cucumber untuk project Login Page 'https://dev.to/enter'
 
 Pembuatan automation ini menggunakan OS Windows 11 dan Ruby 3.3
 
-==========================================================================================
+===========================================================================
 
 Prepare ruby :
 
