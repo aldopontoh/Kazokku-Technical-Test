@@ -48,6 +48,6 @@ Prepare ruby :
       jalankan perintah 'cucumber .\feaures\Login.feature'
    - Jika ingin menjalankan hanya pada spesifik scenario bisa jalankan perintah 'cucumber .\features\Login.feature:22' yang berarti menjalankan automation dimulai pada line 22.
    - Jika ingin menjalankan dengan generate report bisa jalankan perintah 'cucumber .\features\Login.feature --format html --out report/cucumber_report.html' yang berarti menjalankan 
-      automation dengan mengenerate report pada folder .\features\report\cucumber_report.html
+      automation dengan mengenerate report pada folder \report\cucumber_report.html
 
 
